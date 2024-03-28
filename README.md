@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fuxiri
+- 👀 I’m interested in HTML/CSS/JS
+- 🌱 I’m currently learning JS
+- 📫 How to reach me fuxiri1809@gmail.com
+- 😄 Pronouns: He/him
